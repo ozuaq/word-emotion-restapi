@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type:application/json" -d "{\"word\":\"モンスト\", \"max_results\":\"100\", \"max_queries\": 4, \"start_time\":\"2022-07-12T00:00:00.000+09:00\", \"end_time\":\"2022-07-13T00:00:00.000+09:00\"}" http://localhost:8080/emotion
